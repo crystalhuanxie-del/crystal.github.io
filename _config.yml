@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg" # filename of your profile image placed in /images/ (e.g., "profile.png" or "profile.jpg")
+  avatar           : "xh.jpg" # filename of your profile image placed in /images/ (e.g., "profile.png" or "profile.jpg")
   name             : "Xie Huan"
   pronouns         : # example: "she/her"  
   bio              : "Master Student at Zhejiang University."
