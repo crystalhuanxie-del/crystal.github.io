@@ -11,9 +11,9 @@ I am a third-year master's student at Zhejiang University, advised by Dr. Qing L
 
 Research Interests
 ======
-* Graph Mining and Database Systems
-* Deep Learning 
-* Largee Language Model: reasoning and applications in recommendation systems
+* Data Mining and Database Systems
+* High-Performance Computing
+* Machine Learning
 
 
 
